@@ -25,4 +25,4 @@ Estudante de Ciência da Computação apaixonado por tecnologia e focado em me t
 </p>
 
 ### 📬 Vamos conversar?
-[LinkedIn](https://www.linkedin.com/in/joao-ferreira-8790b035a) | [E-mail](seu-email-aqui)
+[LinkedIn](https://www.linkedin.com/in/joao-ferrerira-dev) | [E-mail](joaoferreira22281326@gmail.com)
